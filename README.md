@@ -5,3 +5,5 @@ No iniciado
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+
+Amigo secreto (prubea de actualización)
